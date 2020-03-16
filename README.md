@@ -1,2 +1,2 @@
 # Morocco-geojson
-Regions of Morocco in geojson format
+This project contains the layout of Morocco divided into regions in GeoJSON format:
